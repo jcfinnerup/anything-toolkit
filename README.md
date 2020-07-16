@@ -15,5 +15,9 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### CMS
 - https://prismic.io/ - Really nice and simply headless cms with free pricing options
+
 #### Legal
 - https://metomic.io/ - Great tool for handling cookie consent. It's a bit fiddly trying to rescan your website when you add a new script, but other than that it's nice
+
+#### Assets
+- https://undraw.co/illustrations - Cool free graphics for most things if you like the design language
