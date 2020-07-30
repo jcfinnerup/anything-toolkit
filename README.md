@@ -21,3 +21,7 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### Assets
 - https://undraw.co/ - Cool free graphics for most things if you like the design language
+
+
+#### Email
+- https://ethereal.email/ - Free test tool for transactional email
