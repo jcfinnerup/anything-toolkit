@@ -25,3 +25,6 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### Email
 - https://ethereal.email/ - Free test tool for transactional email
+
+#### Naming
+- https://onelook.com/ - Helps with naming if you need to complete a word search for "yourword* to see matches and suffixes
