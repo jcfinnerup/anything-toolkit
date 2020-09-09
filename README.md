@@ -19,6 +19,7 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 #### Legal
 - https://metomic.io/ - Great tool for handling cookie consent. It's a bit fiddly trying to rescan your website when you add a new script, but other than that it's nice
 
+
 #### Assets
 - https://undraw.co/ - Cool free graphics for most things if you like the design language
 
@@ -26,5 +27,10 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 #### Email
 - https://ethereal.email/ - Free test tool for transactional email
 
+
 #### Naming
 - https://onelook.com/ - Helps with naming if you need to complete a word search for "yourword* to see matches and suffixes
+
+
+#### Great coding articles
+- Save time in your NodeJS dev https://softwareontheroad.com/nodejs-scalability-issues/#assets (AgendaJS, etc)
