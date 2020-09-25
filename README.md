@@ -34,3 +34,7 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### Great coding articles
 - Save time in your NodeJS dev https://softwareontheroad.com/nodejs-scalability-issues/#assets (AgendaJS, etc)
+
+
+#### Great marketing articles
+- https://medium.com/better-marketing/this-brilliant-marketing-strategy-costs-just-twelve-cents-d2d15abbd07
