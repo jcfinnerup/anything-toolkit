@@ -16,6 +16,9 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 #### CMS
 - https://prismic.io/ - Really nice and simply headless cms with free pricing options
 
+#### Authentication
+- https://userbase.com/ - Cheap and easy user management
+
 #### Legal
 - https://metomic.io/ - (no longer has a cookie widget) Great tool for handling cookie consent. It's a bit fiddly trying to rescan your website when you add a new script, but other than that it's nice
 - https://www.axeptio.eu/en/home (has a nice cookie widget)
