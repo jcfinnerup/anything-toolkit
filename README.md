@@ -32,6 +32,10 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 - https://ethereal.email/ - Free test tool for transactional email
 
 
+#### Frameworks
+- https://capacitorjs.com/docs/cli - Web Apps to Native Apps (Also works with svelte)
+
+
 #### Naming
 - https://onelook.com/ - Helps with naming if you need to complete a word search for "yourword* to see matches and suffixes
 
