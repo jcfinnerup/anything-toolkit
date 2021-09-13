@@ -31,6 +31,9 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 #### Email
 - https://ethereal.email/ - Free test tool for transactional email
 
+#### Test
+- https://insomnia.rest/ - Alternative to Postman and for testing
+
 
 #### Frameworks
 - https://capacitorjs.com/docs/cli - Web Apps to Native Apps (Also works with svelte)
