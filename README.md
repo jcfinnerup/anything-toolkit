@@ -42,6 +42,8 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 #### Naming
 - https://onelook.com/ - Helps with naming if you need to complete a word search for "yourword* to see matches and suffixes
 
+#### Database
+- https://github.com/ai/nanoid - Nano ID, UUID alternative
 
 #### Great coding articles
 - Save time in your NodeJS dev https://softwareontheroad.com/nodejs-scalability-issues/#assets (AgendaJS, etc)
