@@ -46,6 +46,7 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### Database
 - https://github.com/ai/nanoid - Nano ID, UUID alternative
+- https://planetscale.com - PlanetScale, free 10GB MySQL DB Hosted w. backup
 
 #### Great coding articles
 - Save time in your NodeJS dev https://softwareontheroad.com/nodejs-scalability-issues/#assets (AgendaJS, etc)
