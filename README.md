@@ -56,6 +56,7 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### Validation
 - https://www.npmjs.com/package/ajv - For input validation
+- https://www.npmjs.com/package/zod - Some say this is the god of JS/TS validation
 
 
 
