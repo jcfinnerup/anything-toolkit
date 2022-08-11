@@ -37,12 +37,15 @@ These used to live in a notepad somewhere, but now they're here in the hope that
 
 #### Frameworks
 - https://capacitorjs.com/docs/cli - Web Apps to Native Apps (Also works with svelte)
+- https://inertiajs.com/ - PHP backend with Vue/Svelte/React where the controller is on the backend
 
 #### Editors
 - https://github.com/ianstormtaylor/slate - A WYSIWYG that works
 
+
 #### Naming
 - https://onelook.com/ - Helps with naming if you need to complete a word search for "yourword* to see matches and suffixes
+
 
 #### Database
 - https://github.com/ai/nanoid - Nano ID, UUID alternative
